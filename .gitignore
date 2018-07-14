@@ -9,6 +9,9 @@
 # production
 /build
 
+# documentation
+/doc
+
 # ide
 /.vscode
 
