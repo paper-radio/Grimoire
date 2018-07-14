@@ -1,16 +1,32 @@
 {
-  "name": "grimoire",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  }
+    "name": "grimoire",
+    "description": "My life",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "react": "^16.4.1",
+        "react-dom": "^16.4.1",
+        "react-scripts": "1.1.4"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/paper-radio/grimoire.git"
+    },
+    "keywords": [],
+    "author": {
+        "name": "Alexander Adrian Guerra",
+        "email": "alex@paper-rad.io",
+        "url": "http://blog.paper-rad.io"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/paper-radio/grimoire/issues"
+    },
+    "homepage": "https://github.com/paper-radio/grimoire"
 }
