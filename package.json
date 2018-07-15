@@ -28,6 +28,7 @@
     "dependencies": {
         "@material-ui/core": "^1.4.0",
         "@material-ui/icons": "^1.1.0",
+        "firebase": "^5.2.0",
         "lodash": "^4.17.10",
         "radium": "^0.24.1",
         "react": "^16.4.1",
