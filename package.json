@@ -31,7 +31,8 @@
         "radium": "^0.24.1",
         "react": "^16.4.1",
         "react-dom": "^16.4.1",
-        "react-scripts": "1.1.4"
+        "react-scripts": "1.1.4",
+        "recharts": "^1.0.1"
     },
     "devDependencies": {
         "jsdoc": "^3.5.5"
