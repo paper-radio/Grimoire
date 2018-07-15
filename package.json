@@ -26,6 +26,8 @@
     },
     "homepage": "https://github.com/paper-radio/grimoire",
     "dependencies": {
+        "@material-ui/core": "^1.4.0",
+        "@material-ui/icons": "^1.1.0",
         "radium": "^0.24.1",
         "react": "^16.4.1",
         "react-dom": "^16.4.1",
