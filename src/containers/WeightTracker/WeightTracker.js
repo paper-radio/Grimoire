@@ -1,14 +1,14 @@
 import React, { Component } from "react";
-import "./App.css";
+import "./WeightTracker.css";
 
-class App extends Component {
+class WeightTracker extends Component {
     render() {
         return (
-            <div className="App">
+            <div className="WeightTracker">
                 <h1>Hello, World!</h1>
             </div>
         );
     }
 }
 
-export default App;
+export default WeightTracker;
