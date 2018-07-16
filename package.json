@@ -28,7 +28,6 @@
     "dependencies": {
         "@material-ui/core": "^1.4.0",
         "@material-ui/icons": "^1.1.0",
-        "firebase": "^5.2.0",
         "lodash": "^4.17.10",
         "radium": "^0.24.1",
         "react": "^16.4.1",
@@ -43,6 +42,7 @@
         "redux-thunk": "^2.3.0"
     },
     "devDependencies": {
+        "firebase": "^5.2.0",
         "jsdoc": "^3.5.5"
     }
 }
